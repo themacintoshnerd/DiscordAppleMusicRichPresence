@@ -15,7 +15,7 @@ class StatusItemManager {
     private let discordStatusMenuItem = NSMenuItem(title: "", action: nil, keyEquivalent: "")
     
     private init() {
-        statusItem.button?.title = "Apple Music Discord Status"
+        statusItem.button?.title = "Apple Music Discord Presence"
         
         let menu = NSMenu()
         menu.addItem(discordStatusMenuItem)
