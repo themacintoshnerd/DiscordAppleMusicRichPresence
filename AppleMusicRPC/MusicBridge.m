@@ -2,9 +2,6 @@
 //  MusicBridge.m
 //  AppleMusicRPC
 //
-//  Created by Ayden Panhuyzen on 2020-05-15.
-//  Copyright © 2020 Ayden Panhuyzen. All rights reserved.
-//
 
 #import "MusicBridge.h"
 #import <ScriptingBridge/ScriptingBridge.h>
