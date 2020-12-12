@@ -42,7 +42,7 @@
 	<key>NSAppleEventsUsageDescription</key>
 	<string>To get information about the currently playing track.</string>
 	<key>NSHumanReadableCopyright</key>
-	<string>Copyright © 2020 Ayden Panhuyzen. All rights reserved.</string>
+	<string>Copyright themacintoshnerd liscened under MIT Liscence</string>
 	<key>NSPrincipalClass</key>
 	<string>NSApplication</string>
 	<key>NSSupportsAutomaticTermination</key>
