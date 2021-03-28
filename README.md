@@ -2,7 +2,7 @@
 
 Show your Now Playing song from macOS's Music.app (or iTunes) in Discord.
 
-To download the latest release go to releases
+To download the latest release (binary blob or souce code) go to releases
 
 This is largley a hobby project do not expect it to work 100% of the time
 
